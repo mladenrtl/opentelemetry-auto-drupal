@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenTelemetry\Tests\Instrumentation\Drupal\Tests\Unit;
+namespace OpenTelemetry\Contrib\Instrumentation\Drupal\Tests\Unit;
 
 use InvalidArgumentException;
 use Mockery\Adapter\Phpunit\MockeryTestCase;

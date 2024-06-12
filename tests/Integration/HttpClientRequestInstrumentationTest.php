@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OpenTelemetry\Tests\Instrumentation\Drupal\Tests\Integration;
+namespace OpenTelemetry\Contrib\Instrumentation\Drupal\Tests\Integration;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
